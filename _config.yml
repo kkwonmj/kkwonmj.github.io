@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "밍지의 깃허브 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Kwon Min Ji"
 description              : "An amazing website."
 url                      : "https://kkwonmj.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KwonMinJi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "hi~ I'm **minji**. how are u? :) "
+  location         : "Ansan"
   email            :
   links:
     - label: "Email"
